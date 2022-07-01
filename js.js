@@ -3,7 +3,7 @@ gsap.set('.circle', { yPercent: -5 })
 gsap.set('.dotsBlue', { yPercent: 10 })
 gsap.set('.owlHorned', { yPercent: -20 })
 gsap.set('.clusterGreat', { yPercent: 5 })
-
+/* 수정을 해보자 */
 gsap.to('.circle', {
   yPercent: 5,
   ease: 'none',
